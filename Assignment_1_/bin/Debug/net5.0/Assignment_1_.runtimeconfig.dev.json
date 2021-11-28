@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Beniamin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Beniamin\\.nuget\\packages"
+    ]
+  }
+}
